@@ -7,12 +7,13 @@ While some governments over the world have begun adopting plant-based policies t
 The objective of this project is to analyze global and regional trends in animal protein consumption since 1961, assess how dietary consumption affects CO2 emissions, determine whether variables such as population growth and GDP influence these consumption patterns and predict global trends for the next years.
 
 Questions
+
 What are the global and regional trends in animal protein consumption since 1961?
 How does protein consumption choices impact CO2 emissions?
 Do factors such as population growth and GDP influence a country's animal protein consumption and CO2 emissions?
 Can we forecast CO2 emissions derived from animal protein consumption?
-Data
-Final dataframe was accomplished by integrating four distinct datasets sourced from different data sources. These are:
+
+Data: Final dataframe was accomplished by integrating four distinct datasets sourced from different data sources. These are:
 
 Maddison Project 2023 version
 MPD version 2023: Bolt, Jutta and Jan Luiten van Zanden (2024), "Maddison style estimates of the evolution of the world economy: A new 2023 update", Journal of Economic Surveys, 1–41. DOI: 10.1111/joes.12618”.
